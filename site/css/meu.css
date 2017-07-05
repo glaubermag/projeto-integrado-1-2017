@@ -39,6 +39,8 @@ div {
     padding: auto;
 }
 
+.left {
+float: left;}
 
 h1 {
     font-size: 38px;
@@ -49,6 +51,23 @@ h1 {
     text-shadow: 1px 1px gray;
 
 }
+
+h4 {
+    font-size: 30px;
+    font-family: 'Port Lligat Slab', serif;
+    text-align: center;
+    word-wrap: break-word;
+    hyphens: auto;
+    text-shadow: 1px 1px gray;
+
+}
+
+h3 {
+    word-wrap: break-word;
+    hyphens: auto;
+    color: #dd3333
+}
+
 
 #meumenu.navbar-default .navbar-brand {
     color: rgba(119, 119, 119, 1);
@@ -112,6 +131,10 @@ button {
     
     margin-left: 15px;
     
+}
+
+.white {
+    color: white;
 }
 
 	
